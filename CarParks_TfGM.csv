@@ -1,0 +1,71 @@
+Id,Capacity,Description,Occupancy,LastUpdated,LocationId,Vacancy
+1,200,Ashton Moss Metrolink Car Park,0,,1,200
+2,194,Ashton West Metrolink Car Park,0,,2,194
+3,108,Brooklands Metrolink Car Park,0,,3,108
+4,100,Bury Metrolink Car Park,0,,4,100
+5,958,Arena,166,,5,792
+6,680,Spinningfields,125,,6,555
+7,554,King Street,203,,7,351
+8,340,Deansgate,166,,8,174
+9,498,Exchange Station,0,,9,498
+10,150,Marks & Spencer,0,,10,150
+11,232,Tariff Street,0,,11,232
+12,265,Dale Street,0,,12,265
+13,712,The Grand (Piccadilly),297,,13,415
+14,697,Piccadilly Station,0,,14,697
+15,600,Piccadilly Place,0,,15,600
+16,559,Chorlton Street,80,,16,479
+17,129,Sackville Street,76,,17,53
+18,76,Chinatown,51,,18,25
+19,431,Oxford Street,37,,19,394
+20,130,Major Street (NO LONGER MONITORED),0,,20,130
+21,160,Piccadilly Plaza,83,,21,77
+22,225,Piazza,0,,22,225
+23,620,Salford New Bailey,63,,23,557
+24,420,Aquatic Centre,49,,24,371
+25,519,Great Northern (Watson Street),131,,25,388
+26,720,Manchester Central (Lower),287,,26,433
+27,288,Bridgewater,150,,27,138
+28,721,Great Northern B,460,,28,261
+29,122,Gmex (upper),0,,29,122
+30,812,Charles Street,0,,30,812
+31,212,Chester Street,95,,31,117
+32,411,Palace,85,,32,326
+33,777,Printworks,292,,33,485
+34,1383,High St. (Arndale),646,,34,737
+35,700,Northern Quarter,248,,35,452
+36,1000,Stockport Exchange (NCP) Car Park,0,,36,1000
+37,620,"M10/008 - Grand Arcade/Millgate, Wigan",280,,37,340
+38,263,"M10/009 - Grand Arcade/Crompton St, Wigan",88,,38,175
+39,251,Derker Metrolink Car Park,2,,39,249
+40,302,East Didsbury Metrolink Car Park,1,,40,301
+41,190,Hollinwood Metrolink Car Park,190,,41,0
+42,250,Ladywell Metrolink Car Park,0,,42,250
+43,81,Navigation Road Metrolink Car Park,0,,43,81
+44,286,Oldham Mumps Metrolink Car Park,0,,44,286
+45,391,Radcliffe Metrolink Car Park,0,,45,391
+46,230,Rochdale Railway Station Metrolink Car Park,0,,46,230
+47,97,Shaw and Crompton Metrolink Car Park,0,,47,97
+48,97,Shaw and Crompton Metrolink Car Park (North),0,,48,97
+49,692,"M7/001 - Water Street/Tesco, Stockport",421,,49,271
+50,616,"M7/002 - Peel Centre 1, Stockport",37,,50,579
+51,213,"M7/003 - Millgate Bridge/Matalan, Stockport",77,,51,136
+52,207,"M7/004 - Newbridge Lane, Stockport",36,,52,171
+53,550,"M7/005 - Millgate/Asda, Stockport",378,,53,172
+54,420,"M7/006 - Warren St/Sainsburys, Stockport",68,,54,352
+55,201,Great Egerton St.,0,,55,201
+56,122,Port St.,0,,56,122
+57,835,"M7/009 - Merseyway/Gt Underbank, Stockport",0,,57,835
+58,710,"M7/010 - Heaton Lane, Stockport",163,,58,547
+59,138,"M7/011 - Stopford House, Stockport",0,,59,138
+60,196,Stockport Exchange (Surface),0,,60,196
+61,69,"M7/015 - Churchgate, Stockport",24,,61,45
+62,211,"M7/016 - Peel Centre 2/PC World, Stockport",83,,62,128
+63,158,Grand Central Temp Car Park,0,,63,158
+64,316,Sale Water Park Metrolink Car Park,0,,64,316
+65,229,Whitefield Metrolink Car Park,229,,65,0
+66,625,"M10/003 - Galleries, Wigan",0,,66,625
+67,324,NOT IN USE Mesnes Terrace,0,,67,324
+68,470,"M10/002 - Water Street, Wigan",220,,68,250
+69,31,A580 P+R Car Park 1,0,,5681824,31
+70,269,A580 P+R Car Park 2,0,,5681825,269
