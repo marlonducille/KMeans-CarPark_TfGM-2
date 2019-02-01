@@ -1,7 +1,7 @@
 
 df <- read.csv('CarParks_TfGM.csv')
-data <- df[c('Id', 'Capacity')]
-
+data <- df[c('Capacity', 'Id')]
+''
 #'''''''''''''''''''''''''''''''''''
 #'Determine the optimal value for k
 #'''''''''''''''''''''''''''''''''''
@@ -22,18 +22,20 @@ plot(1:10, wss, type='b', xlab = "No of clusters", ylab = "WSS")
 #'Determine the k-means
 #''''''''''''''''''''''
 library(cluster)
-km <- kmeans(data, centers = 4)
+km <- kmeans(data, centers = 5)
 km$centers
 km$cluster
 
-clusplot(data, km$cluster, lines=0, shade = TRUE, color = TRUE, span = TRUE, 
-         plotchar = TRUE, xlab = "Capacity", ylab = "Car Park ID", 
-         main = "Car Park Capacity" )
+group_name <- c('extra-large', 'small', 'medium', 'large', 'extra small' )
 
-group_name <- c('small', 'medium', 'large', 'extra-large')
+clusplot(data, group_name[km$cluster], lines=0, shade = TRUE, color = TRUE, span = TRUE, 
+         plotchar = TRUE, xlab = "Capacity", ylab = "Car Park ID", labels = 4,
+         main = "Car Park Capacity" )
 
 car_park_category <- cbind(df[3], km$cluster)
 car_park_category$group_name <- group_name[km$cluster]
+
+write.csv(car_park_category, 'CarPark_results.csv')
 
 
 
